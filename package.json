@@ -1,0 +1,23 @@
+{
+  "name": "jcprinter",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzl-max/JCPrinter.git"
+  },
+  "keywords": [
+  ],
+  "author": "zzl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzl-max/JCPrinter/issues"
+  },
+  "homepage": "https://github.com/zzl-max/JCPrinter#readme"
+}
