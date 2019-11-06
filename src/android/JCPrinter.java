@@ -4,7 +4,6 @@ import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
 import android.app.Activity;
 import android.content.Context;
-import android.support.v7.app.AppCompatActivity;//导入v7包
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
